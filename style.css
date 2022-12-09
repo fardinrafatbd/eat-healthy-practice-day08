@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 
 }
 h1{
@@ -31,6 +32,17 @@ h2{
 }
 .kom-width img{
     width: 63%;
+}
+.recipie-title{
+    width: 35%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    padding-left: 35px;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+.recipie-title img{
+    width: 92%;
 }
 
 #section-one{
@@ -68,3 +80,27 @@ span{
     width: 50%;
     margin: 0 auto;
 }
+.like-center{
+    width: 20%;
+    margin-left: 13%;
+
+}
+.box-like{
+    box-shadow: 10px 10px 15px gray;
+    height: 200px;
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 30px;
+    margin-bottom: 40px;
+
+}
+#black{
+    background-color: black;
+    height:250px;
+    width: 100%;
+    padding-top: 50px;
+    margin:0;
+}
+#white{
+    color: rgb(161, 159, 159)}
